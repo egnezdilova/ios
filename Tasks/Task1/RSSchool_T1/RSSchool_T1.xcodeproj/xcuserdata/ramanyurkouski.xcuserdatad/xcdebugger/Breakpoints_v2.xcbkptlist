@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T1/Exercises/1/SummArray.m"
+            timestampString = "574798035.210583"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "-summArray:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SummArray summArray:]"
+                  moduleName = "RSSchool_T1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramanyurkouski/Desktop/rs_ios/ios/Tasks/Task1/RSSchool_T1/RSSchool_T1/Exercises/1/SummArray.m"
+                  timestampString = "574797472.703349"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "547">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SummArray summArray:]"
+                  moduleName = "RSSchool_T1Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramanyurkouski/Desktop/rs_ios/ios/Tasks/Task1/RSSchool_T1/RSSchool_T1/Exercises/1/SummArray.m"
+                  timestampString = "574797473.562102"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "547">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T1/Exercises/1/SummArray.m"
+            timestampString = "574798035.210655"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "-summArray:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SummArray summArray:]"
+                  moduleName = "RSSchool_T1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramanyurkouski/Desktop/rs_ios/ios/Tasks/Task1/RSSchool_T1/RSSchool_T1/Exercises/1/SummArray.m"
+                  timestampString = "574798035.2284549"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "388">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SummArray summArray:]"
+                  moduleName = "RSSchool_T1Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramanyurkouski/Desktop/rs_ios/ios/Tasks/Task1/RSSchool_T1/RSSchool_T1/Exercises/1/SummArray.m"
+                  timestampString = "574798035.757367"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "388">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
