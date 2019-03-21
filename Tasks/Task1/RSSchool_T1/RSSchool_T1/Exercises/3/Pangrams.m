@@ -8,13 +8,13 @@
     //NSCharacterSet *alphabetSet = [NSCharacterSet characterSetWithCharactersInString:@"abcdefghijklmnopqrstuvwxyz"];
   NSArray *alphabetSet = @[@"a",@"b",@"c",@"d",@"e",@"f",@"g",@"h",@"i",@"j",@"k",@"l",@"m",@"n",@"o",@"p",@"q",@"r",@"s",@"t",@"u",@"v",@"w",@"x",@"y",@"z"];
     
-    NSCountedSet *countedSet = [NSCountedSet new];
+    NSMutableArray *resultArray = [NSMutableArray new];
     for (NSString *symbol in alphabetSet) {
         if ([input containsString:symbol]) {
-            [countedSet addObject:symbol];
+            [resultArray addObject:symbol];
         };
     };
-    if (countedSet.count == 26) //26 symbols in English alphabet
+    if (resultArray.count == 26) //26 symbols in English alphabet
     {
         return YES;
     };
