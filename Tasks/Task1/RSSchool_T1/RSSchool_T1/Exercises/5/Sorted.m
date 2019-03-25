@@ -25,8 +25,8 @@
     for (int i=0; i<[input count] -1 ; i++) {
         if ([[input objectAtIndex:(i+1)] intValue]<[[input objectAtIndex:i] intValue]){
          //first unsorted element
-           NSArray* firstPart = [[input subarrayWithRange: NSMakeRange( 0, i )] autorelease]; //store first sorted part
-            NSArray* arrPart=[[input subarrayWithRange: NSMakeRange( i, [input count] - i)] autorelease];//store another part of input array
+           NSArray* firstPart = [input subarrayWithRange: NSMakeRange( 0, i )]; //store first sorted part
+            NSArray* arrPart=[input subarrayWithRange: NSMakeRange( i, [input count] - i)];//store another part of input array
             
 //                   swap
             if ( [self isSwaped:arrPart withFirstPart:firstPart andResult:resultValue]  == NO) {
@@ -36,8 +36,6 @@
             break;
         }
     }
-    
-    [input release];
     
     
     return resultValue;
@@ -73,10 +71,7 @@
     NSArray* finalArr = [[firstPart arrayByAddingObjectsFromArray:reversed] arrayByAddingObjectsFromArray:stayedPart];
     
     result.status = [self isSorted:finalArr];
-    [stayedPart release];
-    [need2reverce release];
-    [reversed release];
-    [finalArr release];
+   
     return result.status;
 }
 -(BOOL)isSwaped:(NSArray *)array withFirstPart:(NSArray *)firstPart andResult:(ResultObject *)result{
@@ -121,11 +116,6 @@
     else{
         result.status = NO;
     }
-    
-    [finalArr release];
-    [middlePart release];
-    [stayedPart release];
-    [need2swap release];
     
     return result.status;
     

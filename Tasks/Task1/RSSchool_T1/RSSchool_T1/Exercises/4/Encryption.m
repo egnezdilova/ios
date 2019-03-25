@@ -7,12 +7,12 @@
    //convert string to array without spaces
     NSMutableArray *input = [NSMutableArray new];
     for (int i=0; i < string.length; i++) {
-    NSString *tmp_str = [string substringWithRange:NSMakeRange(i, 1)];
+    NSString *tmp_str = [[string substringWithRange:NSMakeRange(i, 1)] autorelease];
         if (![tmp_str isEqualToString:@" "]) {
         [input addObject:tmp_str];
         }
-        [tmp_str release];
     }
+    
     //number of columns
     int maxColumnsNum = ceilf(sqrt(input.count));
     

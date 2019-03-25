@@ -8,7 +8,7 @@
     //NSCharacterSet *alphabetSet = [NSCharacterSet characterSetWithCharactersInString:@"abcdefghijklmnopqrstuvwxyz"];
   NSArray *alphabetSet = @[@"a",@"b",@"c",@"d",@"e",@"f",@"g",@"h",@"i",@"j",@"k",@"l",@"m",@"n",@"o",@"p",@"q",@"r",@"s",@"t",@"u",@"v",@"w",@"x",@"y",@"z"];
     
-    NSMutableArray *resultArray = [NSMutableArray new];
+    NSMutableArray *resultArray = [[NSMutableArray new] autorelease];
     for (NSString *symbol in alphabetSet) {
         if ([input containsString:symbol]) {
             [resultArray addObject:symbol];
@@ -18,7 +18,6 @@
     {
         return YES;
     };
-    
     return NO;
 }
 
