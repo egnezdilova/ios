@@ -13,7 +13,7 @@
     
     //proceed elements
     [self enumerateObjectsUsingBlock:^(id obj, NSUInteger idx, BOOL *stop) {
-        NSString *className = [NSString stringWithFormat:@"%@",[obj classForCoder]];
+        NSString *className = [NSString stringWithFormat:@"%@",[[obj classForCoder] autorelease]];
         if (idx != 0) {//separate elements
              [result appendString:@","];
         }
