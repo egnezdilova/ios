@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6EC3C04422622C4C0090DC22 /* DateMachine.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6EC3C04322622C4C0090DC22 /* DateMachine.xib */; };
 		E3821557225B533B00E3B12B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E3821556225B533B00E3B12B /* AppDelegate.m */; };
 		E382155F225B533E00E3B12B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E382155E225B533E00E3B12B /* Assets.xcassets */; };
 		E3821562225B533E00E3B12B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E3821560225B533E00E3B12B /* LaunchScreen.storyboard */; };
@@ -38,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6EC3C04322622C4C0090DC22 /* DateMachine.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DateMachine.xib; sourceTree = "<group>"; };
 		E3821552225B533B00E3B12B /* RSSchool_T3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RSSchool_T3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3821555225B533B00E3B12B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		E3821556225B533B00E3B12B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -165,6 +167,7 @@
 			children = (
 				E39C2575225CAA7E00C3BCC1 /* DateMachine.h */,
 				E39C2576225CAA7E00C3BCC1 /* DateMachine.m */,
+				6EC3C04322622C4C0090DC22 /* DateMachine.xib */,
 			);
 			path = 3;
 			sourceTree = "<group>";
@@ -231,6 +234,10 @@
 		E382154A225B533B00E3B12B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					11,
+					mainView,
+				);
 				LastUpgradeCheck = 1020;
 				ORGANIZATIONNAME = "Alexander Shalamov";
 				TargetAttributes = {
@@ -274,6 +281,7 @@
 			files = (
 				E3821562225B533E00E3B12B /* LaunchScreen.storyboard in Resources */,
 				E382155F225B533E00E3B12B /* Assets.xcassets in Resources */,
+				6EC3C04422622C4C0090DC22 /* DateMachine.xib in Resources */,
 				E39C2567225B877F00C3BCC1 /* ExampleTrees.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

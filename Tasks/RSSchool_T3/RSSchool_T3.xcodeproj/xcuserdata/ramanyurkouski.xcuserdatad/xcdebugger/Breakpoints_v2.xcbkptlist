@@ -10,7 +10,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RSSchool_T3/1/ArrayPrint.m"
-            timestampString = "576695903.116107"
+            timestampString = "576868861.167181"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "49"
@@ -26,7 +26,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RSSchool_T3/1/ArrayPrint.m"
-            timestampString = "576695903.1164941"
+            timestampString = "576868861.1673779"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "15"
@@ -89,7 +89,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RSSchool_T3/1/ArrayPrint.m"
-            timestampString = "576695903.1167541"
+            timestampString = "576868861.167478"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "16"
@@ -105,7 +105,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RSSchool_T3/1/ArrayPrint.m"
-            timestampString = "576695903.116998"
+            timestampString = "576868861.167551"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "9"
@@ -121,13 +121,595 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RSSchool_T3/1/ArrayPrint.m"
-            timestampString = "576695903.117241"
+            timestampString = "576868861.167604"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "10"
             endingLineNumber = "10"
             landmarkName = "-print"
             landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T3/3/DateMachine.m"
+            timestampString = "576958796.331239"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "-add2start:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T3/3/DateMachine.m"
+            timestampString = "576958796.3317961"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T3/3/DateMachine.m"
+            timestampString = "576958796.3321379"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T3/3/DateMachine.m"
+            timestampString = "576958796.3324831"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "-dealloc"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T3/3/DateMachine.m"
+            timestampString = "576958796.3328609"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T3UITests/DateMachineTests.m"
+            timestampString = "576958796.3332191"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "-test2"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T3UITests/DateMachineTests.m"
+            timestampString = "576958796.333335"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "-test2"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RSSchool_T3UITests test2]"
+                  moduleName = "RSSchool_T3UITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramanyurkouski/Desktop/rs_ios/ios/Tasks/RSSchool_T3/RSSchool_T3UITests/DateMachineTests.m"
+                  timestampString = "576865739.5324301"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "423">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RSSchool_T3UITests test2]"
+                  moduleName = "RSSchool_T3UITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramanyurkouski/Desktop/rs_ios/ios/Tasks/RSSchool_T3/RSSchool_T3UITests/DateMachineTests.m"
+                  timestampString = "576865739.5349309"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "483">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RSSchool_T3UITests test2]"
+                  moduleName = "RSSchool_T3UITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramanyurkouski/Desktop/rs_ios/ios/Tasks/RSSchool_T3/RSSchool_T3UITests/DateMachineTests.m"
+                  timestampString = "576865739.536984"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "540">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RSSchool_T3UITests test2]"
+                  moduleName = "RSSchool_T3UITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramanyurkouski/Desktop/rs_ios/ios/Tasks/RSSchool_T3/RSSchool_T3UITests/DateMachineTests.m"
+                  timestampString = "576865739.5394599"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "841">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T3/3/DateMachine.m"
+            timestampString = "576958796.3334481"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "-textField:shouldChangeCharactersInRange:replacementString:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T3/3/DateMachine.m"
+            timestampString = "576958796.33391"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "-textField:shouldChangeCharactersInRange:replacementString:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T3UITests/DateMachineTests.m"
+            timestampString = "576958796.334384"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "-test6"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RSSchool_T3UITests test6]"
+                  moduleName = "RSSchool_T3UITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramanyurkouski/Desktop/rs_ios/ios/Tasks/RSSchool_T3/RSSchool_T3UITests/DateMachineTests.m"
+                  timestampString = "576869845.893707"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "138">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RSSchool_T3UITests test6]"
+                  moduleName = "RSSchool_T3UITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramanyurkouski/Desktop/rs_ios/ios/Tasks/RSSchool_T3/RSSchool_T3UITests/DateMachineTests.m"
+                  timestampString = "576869845.896616"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "560">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RSSchool_T3UITests test6]"
+                  moduleName = "RSSchool_T3UITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramanyurkouski/Desktop/rs_ios/ios/Tasks/RSSchool_T3/RSSchool_T3UITests/DateMachineTests.m"
+                  timestampString = "576869845.900134"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "1268">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RSSchool_T3UITests test6]"
+                  moduleName = "RSSchool_T3UITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramanyurkouski/Desktop/rs_ios/ios/Tasks/RSSchool_T3/RSSchool_T3UITests/DateMachineTests.m"
+                  timestampString = "576869845.902375"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "1335">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T3UITests/DateMachineTests.m"
+            timestampString = "576958796.334466"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "-test6"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T3UITests/DateMachineTests.m"
+            timestampString = "576958796.3345309"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "-test6"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RSSchool_T3UITests test6]"
+                  moduleName = "RSSchool_T3UITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramanyurkouski/Desktop/rs_ios/ios/Tasks/RSSchool_T3/RSSchool_T3UITests/DateMachineTests.m"
+                  timestampString = "576869465.414701"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "2202">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RSSchool_T3UITests test6]"
+                  moduleName = "RSSchool_T3UITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramanyurkouski/Desktop/rs_ios/ios/Tasks/RSSchool_T3/RSSchool_T3UITests/DateMachineTests.m"
+                  timestampString = "576869465.417598"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "3302">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RSSchool_T3UITests test6]"
+                  moduleName = "RSSchool_T3UITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramanyurkouski/Desktop/rs_ios/ios/Tasks/RSSchool_T3/RSSchool_T3UITests/DateMachineTests.m"
+                  timestampString = "576869465.419861"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "3882">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RSSchool_T3UITests test6]"
+                  moduleName = "RSSchool_T3UITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramanyurkouski/Desktop/rs_ios/ios/Tasks/RSSchool_T3/RSSchool_T3UITests/DateMachineTests.m"
+                  timestampString = "576869465.422922"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "3955">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T3/3/DateMachine.m"
+            timestampString = "576958796.334615"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "-textField:shouldChangeCharactersInRange:replacementString:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T3UITests/DateMachineTests.m"
+            timestampString = "576958796.334987"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "-test6"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T3UITests/DateMachineTests.m"
+            timestampString = "576958796.3350869"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
+            landmarkName = "-test6"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RSSchool_T3UITests test6]"
+                  moduleName = "RSSchool_T3UITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramanyurkouski/Desktop/rs_ios/ios/Tasks/RSSchool_T3/RSSchool_T3UITests/DateMachineTests.m"
+                  timestampString = "576870665.435457"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "167"
+                  endingLineNumber = "167"
+                  offsetFromSymbolStart = "6058">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RSSchool_T3UITests test6]"
+                  moduleName = "RSSchool_T3UITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramanyurkouski/Desktop/rs_ios/ios/Tasks/RSSchool_T3/RSSchool_T3UITests/DateMachineTests.m"
+                  timestampString = "576870665.438146"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "167"
+                  endingLineNumber = "167"
+                  offsetFromSymbolStart = "7158">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RSSchool_T3UITests test6]"
+                  moduleName = "RSSchool_T3UITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramanyurkouski/Desktop/rs_ios/ios/Tasks/RSSchool_T3/RSSchool_T3UITests/DateMachineTests.m"
+                  timestampString = "576870665.440046"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "167"
+                  endingLineNumber = "167"
+                  offsetFromSymbolStart = "7738">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RSSchool_T3UITests test6]"
+                  moduleName = "RSSchool_T3UITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramanyurkouski/Desktop/rs_ios/ios/Tasks/RSSchool_T3/RSSchool_T3UITests/DateMachineTests.m"
+                  timestampString = "576870665.4417371"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "167"
+                  endingLineNumber = "167"
+                  offsetFromSymbolStart = "7811">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T3/3/DateMachine.m"
+            timestampString = "576958796.335163"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "-subFromStart:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RSSchool_T3UITests/DateMachineTests.m"
+            timestampString = "576958796.3356121"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "180"
+            endingLineNumber = "180"
+            landmarkName = "-test6"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RSSchool_T3UITests test6]"
+                  moduleName = "RSSchool_T3UITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramanyurkouski/Desktop/rs_ios/ios/Tasks/RSSchool_T3/RSSchool_T3UITests/DateMachineTests.m"
+                  timestampString = "576958270.609808"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "7343">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RSSchool_T3UITests test6]"
+                  moduleName = "RSSchool_T3UITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramanyurkouski/Desktop/rs_ios/ios/Tasks/RSSchool_T3/RSSchool_T3UITests/DateMachineTests.m"
+                  timestampString = "576958270.6116641"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "8443">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RSSchool_T3UITests test6]"
+                  moduleName = "RSSchool_T3UITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramanyurkouski/Desktop/rs_ios/ios/Tasks/RSSchool_T3/RSSchool_T3UITests/DateMachineTests.m"
+                  timestampString = "576958270.61376"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "9008">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RSSchool_T3UITests test6]"
+                  moduleName = "RSSchool_T3UITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramanyurkouski/Desktop/rs_ios/ios/Tasks/RSSchool_T3/RSSchool_T3UITests/DateMachineTests.m"
+                  timestampString = "576958270.616944"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "9081">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

@@ -164,7 +164,8 @@
 
   [sub tapWithNumberOfTaps:2 numberOfTouches:1];
 
-  XCTAssertTrue(_app.staticTexts[@"19/10/2021 10:22"].exists);
+    XCTAssertTrue(_app.staticTexts[@"19/10/2021 22:22"].exists);//Difference between 12.04.2022 22:22:00 and 19.10.2021 10:22:00 - 4212 hours ,changed from 10:22 to 22:22
+
 
   [unitsCount tap];
   [unitsCount clearText];
