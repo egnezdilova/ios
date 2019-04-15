@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6E24FE372263B76D0031694A /* Node.h in Sources */ = {isa = PBXBuildFile; fileRef = 6E24FE362263B76D0031694A /* Node.h */; };
+		6E24FE392263B9EC0031694A /* Node.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E24FE382263B9EC0031694A /* Node.m */; };
 		6EC3C04422622C4C0090DC22 /* DateMachine.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6EC3C04322622C4C0090DC22 /* DateMachine.xib */; };
 		E3821557225B533B00E3B12B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E3821556225B533B00E3B12B /* AppDelegate.m */; };
 		E382155F225B533E00E3B12B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E382155E225B533E00E3B12B /* Assets.xcassets */; };
@@ -39,6 +41,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6E24FE362263B76D0031694A /* Node.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Node.h; sourceTree = "<group>"; };
+		6E24FE382263B9EC0031694A /* Node.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Node.m; sourceTree = "<group>"; };
 		6EC3C04322622C4C0090DC22 /* DateMachine.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DateMachine.xib; sourceTree = "<group>"; };
 		E3821552225B533B00E3B12B /* RSSchool_T3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RSSchool_T3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3821555225B533B00E3B12B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -149,6 +153,8 @@
 				E39C2562225B683500C3BCC1 /* FullBinaryTrees.h */,
 				E39C2563225B683500C3BCC1 /* FullBinaryTrees.m */,
 				E39C2566225B877F00C3BCC1 /* ExampleTrees.png */,
+				6E24FE362263B76D0031694A /* Node.h */,
+				6E24FE382263B9EC0031694A /* Node.m */,
 			);
 			path = 2;
 			sourceTree = "<group>";
@@ -309,9 +315,11 @@
 			files = (
 				E39C256C225B898A00C3BCC1 /* ArrayPrint.m in Sources */,
 				E3821565225B533E00E3B12B /* main.m in Sources */,
+				6E24FE392263B9EC0031694A /* Node.m in Sources */,
 				E39C2577225CAA7E00C3BCC1 /* DateMachine.m in Sources */,
 				E3821557225B533B00E3B12B /* AppDelegate.m in Sources */,
 				E39C2564225B683500C3BCC1 /* FullBinaryTrees.m in Sources */,
+				6E24FE372263B76D0031694A /* Node.h in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
